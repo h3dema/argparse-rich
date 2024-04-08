@@ -67,7 +67,7 @@ drwxrwxrwx 1 h3dema h3dema  512 Apr  8 14:08 subcommands
 Now that we have an idea of how arguments can be used, let's see how to create these options in a Python program.
 
 - [Simple argparse example](simple/README.md)
-- [Program with multiple subcommands](subcommands/subcommands.py)
+- [Program with multiple subcommands](subcommands/README.md)
 
 ## Colors
 
